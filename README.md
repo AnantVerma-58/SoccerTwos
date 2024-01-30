@@ -20,5 +20,5 @@ tags:
   1. Go to https://huggingface.co/spaces/unity/ML-Agents-SoccerTwos
   2. Step 1: Find model_id: Anant58/poca-SoccerTwos
   3. Step 2: Select another *.nn /*.onnx file
-  4. Click on Kick-Off to watch the agent play 👀
+  4. Click on Kick-Off to watch the agent play
   
